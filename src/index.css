@@ -1,0 +1,9 @@
+body {
+  font-family: Roboto, Helvetica, Arial, sans-serif;
+  background: linear-gradient(to right , white , rgb(83, 83, 158));
+}
+
+#navbar{
+  background: linear-gradient(to right , white , gray);
+}
+
